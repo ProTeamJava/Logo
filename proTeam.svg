@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 199.99999 199.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="proTeam.svg"
+   inkscape:export-filename="/home/oskar/ProTeam.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="73.714467"
+     inkscape:cy="73.842779"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="749"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4184"
+       dotted="false"
+       enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       units="px"
+       spacingx="0.99999996"
+       spacingy="0.99999996" />
+    <sodipodi:guide
+       position="159.99999,179.99999"
+       orientation="0,1"
+       id="guide4190" />
+    <sodipodi:guide
+       position="19.999999,179.99999"
+       orientation="1,0"
+       id="guide4192" />
+    <sodipodi:guide
+       position="19.999999,19.999999"
+       orientation="0,1"
+       id="guide4194" />
+    <sodipodi:guide
+       position="179.99999,169.99999"
+       orientation="1,0"
+       id="guide4196" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36227)">
+    <path
+       style="fill:#f47750;fill-opacity:1;stroke:#f47750;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 24.242638,872.36224 80.055592,13.43502 14.0015,10.16727 c 2.1841,0.86842 32.21928,-3.39149 33.34428,-1.76649 l 25.69391,23.78806 4.07628,33.61344 c -1.35366,11.72374 0.75871,29.9442 3.18197,41.31723 l -7.42893,16.76773 -111.817631,-2.9801 -18.479557,3.3839 c -2.312004,0.4234 -14.84924,-2.3223 -14.84924,-2.3223 0,0 -10.647462,-35.87911 -13.836371,-46.35575 4.498814,-7.23916 1.869688,-44.13819 0.754897,-58.08784 4.134378,-10.22162 2.952878,-30.96017 5.3033,-30.96017 z"
+       id="rect4150"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccccscccs"
+       inkscape:export-xdpi="57.599998"
+       inkscape:export-ydpi="57.599998" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Swift;-inkscape-font-specification:Swift;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.6026154,0,0,1.6026154,-15.865734,838.73158)"><flowRegion
+         id="flowRegion4140"><rect
+           id="rect4142"
+           width="140"
+           height="65"
+           x="25"
+           y="29.999998"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Swift;-inkscape-font-specification:Swift" /></flowRegion><flowPara
+         id="flowPara4144">Pro</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.96182251px;line-height:125%;font-family:Swift;-inkscape-font-specification:Swift;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.652321"
+       y="995.19489"
+       id="text4146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4148"
+         x="39.652321"
+         y="995.19489">Team</tspan></text>
+  </g>
+</svg>
